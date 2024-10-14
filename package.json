@@ -1,0 +1,11 @@
+{
+  "name": "fastify-service",
+  "version": "1.0.0",
+  "description": "Service for experimentation",
+  "main": "index.js",
+  "author": "Karsten Lettow",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^5.0.0"
+  }
+}
